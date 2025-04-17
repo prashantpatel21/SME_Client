@@ -51,6 +51,12 @@
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Private Requests" Type="Folder">
+			<Item Name="Priv Req Arguments" Type="Folder">
+				<Item Name="LogData Argument--cluster.ctl" Type="VI" URL="../LogData Argument--cluster.ctl"/>
+			</Item>
+			<Item Name="LogData.vi" Type="VI" URL="../LogData.vi"/>
+		</Item>
 		<Item Name="Request Events--cluster.ctl" Type="VI" URL="../Request Events--cluster.ctl"/>
 		<Item Name="Obtain Request Events.vi" Type="VI" URL="../Obtain Request Events.vi"/>
 		<Item Name="Destroy Request Events.vi" Type="VI" URL="../Destroy Request Events.vi"/>
@@ -98,7 +104,5 @@
 		<Item Name="FrontPanelCtrlRef.ctl" Type="VI" URL="../FrontPanelCtrlRef.ctl"/>
 		<Item Name="FrontPenelControlRefFGV.vi" Type="VI" URL="../FrontPenelControlRefFGV.vi"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

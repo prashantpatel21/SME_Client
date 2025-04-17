@@ -12,10 +12,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SME_Client_App" Type="Folder">
-			<Item Name="00 Project File" Type="Folder">
-				<Item Name="SME_Client_App.aliases" Type="Document" URL="../SME_Client_App.aliases"/>
-				<Item Name="SME_Client_App.lvlps" Type="Document" URL="../SME_Client_App.lvlps"/>
-			</Item>
 			<Item Name="01 User Interface" Type="Folder">
 				<Item Name="Main.vi" Type="VI" URL="../../01 User Interface/Main.vi"/>
 			</Item>
