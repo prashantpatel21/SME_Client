@@ -101,8 +101,7 @@
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
 	<Item Name="SupportFiles" Type="Folder">
-		<Item Name="FrontPanelCtrlRef.ctl" Type="VI" URL="../FrontPanelCtrlRef.ctl"/>
-		<Item Name="FrontPenelControlRefFGV.vi" Type="VI" URL="../FrontPenelControlRefFGV.vi"/>
+		<Item Name="Calculate Derivative.vi" Type="VI" URL="../Calculate Derivative.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
