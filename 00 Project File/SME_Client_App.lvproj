@@ -301,17 +301,12 @@
 				<Property Name="DistPartCount" Type="Int">2</Property>
 				<Property Name="INST_author" Type="Str">SEIPL</Property>
 				<Property Name="INST_autoIncrement" Type="Bool">true</Property>
-				<Property Name="INST_buildLocation" Type="Path">../builds/SME_Client_App/SMEClient</Property>
-				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
+				<Property Name="INST_buildLocation" Type="Path">/C/SWSetup</Property>
 				<Property Name="INST_buildSpecName" Type="Str">SMEClient</Property>
 				<Property Name="INST_defaultDir" Type="Str">{096E905C-0ED1-420E-8B06-6B6DFF2E7DF7}</Property>
 				<Property Name="INST_installerName" Type="Str">SMEClient.exe</Property>
 				<Property Name="INST_productName" Type="Str">SME_Client_App</Property>
-<<<<<<< HEAD
-				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
-=======
-				<Property Name="INST_productVersion" Type="Str">1.0.0</Property>
->>>>>>> c852e11221aa648221c986fc1219b529b2f81467
+				<Property Name="INST_productVersion" Type="Str">1.0.2</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">19018009</Property>
 				<Property Name="MSI_arpCompany" Type="Str">XYZ</Property>
