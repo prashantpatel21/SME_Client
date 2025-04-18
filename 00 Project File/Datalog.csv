@@ -1,0 +1,1 @@
+SampleNumber,SensorName,SoftwareVersion,ElectronicBoxSR,TimeStamp,Temperature,ResonantFrequency,DampingFrequency,VCOFrequency,RefPhaseShifting,Viscosity,Density,ExcitationCurrentPhaseShift I-,ExcitationCurrentPhaseShift I+,dfFrequencyQuotient,Frequency0Degree,Frequency-45Degree,Frequency+45Degree,Channel1c1,Channel2c2,CoilTemperature,ErrorCode
